@@ -1,0 +1,42 @@
+\select@language {french}
+\contentsline {xchapter}{}{1}{Doc-Start}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Pr\IeC {\'e}sentation G\IeC {\'e}n\IeC {\'e}rale}{2}{chapter.1}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Organigramme De Globale Technologies\relax }}{3}{figure.caption.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Le processus Scrum\relax }}{7}{figure.caption.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Analyse et Conception de la solution}{9}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramme de Cas d\IeC {\textquoteright }utilisation de l\IeC {\textquoteright }acteur Visiteur\relax }}{11}{figure.caption.3}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de Cas d\IeC {\textquoteright }utilisation de l\IeC {\textquoteright }acteur client\relax }}{12}{figure.caption.4}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme de Cas d\IeC {\textquoteright }utilisation de l\IeC {\textquoteright }acteur Administrateur\relax }}{12}{figure.caption.5}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagramme de Cas d\IeC {\textquoteright }utilisationCas des fonctionnalit\IeC {\'e}s technique\relax }}{13}{figure.caption.6}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas "s'authentifier"\relax }}{27}{figure.caption.32}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas "R\IeC {\'e}server un nom de domaine\relax }}{28}{figure.caption.33}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas "S\IeC {\textquoteright }inscrire\relax }}{29}{figure.caption.34}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas "contacter support\relax }}{30}{figure.caption.35}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas prendre un h\IeC {\'e}bergement web"\relax }}{31}{figure.caption.36}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas "bannir client\relax }}{32}{figure.caption.37}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Diagramme de s\IeC {\'e}quence du cas "ajouter un mode de paiement\relax }}{33}{figure.caption.38}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Diagramme de Classe d\IeC {\textquoteright }Analyse (1/2)\relax }}{34}{figure.caption.39}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Diagramme de Classe d\IeC {\textquoteright }Analyse (2/2)\relax }}{34}{figure.caption.40}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Diagramme de Classe De conception (1/2)\relax }}{35}{figure.caption.41}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Diagramme de Classe De conception (2/2)\relax }}{35}{figure.caption.42}
+\addvspace {10\p@ }
+\contentsline {xchapter}{ Conception de la plateforme }{36}{chapter.3}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Capture d'\IeC {\'e}cran de la page d'accueil (1/4)\relax }}{44}{figure.caption.43}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Capture d'\IeC {\'e}cran de la page d'accueil (2/4)\relax }}{44}{figure.caption.44}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Capture d'\IeC {\'e}cran de la page d'accueil (3/4)\relax }}{45}{figure.caption.45}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Capture d'\IeC {\'e}cran de la page d'accueil (4/4)\relax }}{45}{figure.caption.46}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Capture d'\IeC {\'e}cran Authentification client\relax }}{46}{figure.caption.47}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Capture d'\IeC {\'e}cran Commander un nom de domaine (1/6)\relax }}{46}{figure.caption.48}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Capture d'\IeC {\'e}cran Commander un nom de domaine (2/6)\relax }}{47}{figure.caption.49}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Capture d'\IeC {\'e}cran Commander un nom de domaine (3/6)\relax }}{47}{figure.caption.50}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Capture d'\IeC {\'e}cran Commander un nom de domaine (4/6)\relax }}{48}{figure.caption.51}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Capture d'\IeC {\'e}cran Commander un nom de domaine (5/6)\relax }}{48}{figure.caption.52}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Capture d'\IeC {\'e}cran Commander un nom de domaine (6/6)\relax }}{49}{figure.caption.53}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Capture d'\IeC {\'e}cran Page d\IeC {\textquoteright }accueil client\relax }}{49}{figure.caption.54}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Plan d'affaires}{50}{chapter.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Capture d'\IeC {\'e}cran Plan d'affaires\relax }}{53}{figure.caption.55}
+\contentsline {xchapter}{}{54}{figure.caption.55}
+\contentsline {xchapter}{}{56}{figure.caption.55}

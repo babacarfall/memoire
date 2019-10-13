@@ -1,0 +1,37 @@
+\select@language {french}
+\contentsline {xchapter}{}{1}{Doc-Start}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Pr\IeC {\'e}sentation G\IeC {\'e}n\IeC {\'e}rale}{2}{chapter.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Analyse et Conception de la solution}{9}{chapter.2}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Fiche Textuelle du cas "s\IeC {\textquoteright }inscrire\relax }}{14}{table.caption.7}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Fiche Textuelle Ajouter VPS\relax }}{15}{table.caption.8}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Fiche textuelle du cas "G\IeC {\'e}rer Profil"\relax }}{15}{table.caption.9}
+\contentsline {table}{\numberline {2.4}{\ignorespaces Fiche textuelle du cas "Bloquer une adresse IP"\relax }}{16}{table.caption.10}
+\contentsline {table}{\numberline {2.5}{\ignorespaces Fiche textuelle du cas "Contacter le support"\relax }}{16}{table.caption.11}
+\contentsline {table}{\numberline {2.6}{\ignorespaces Fiche textuelle du cas "Ajouter Client"\relax }}{17}{table.caption.12}
+\contentsline {table}{\numberline {2.7}{\ignorespaces Fiche Textuelle du cas "S\IeC {\textquoteright }authentifier"\relax }}{17}{table.caption.13}
+\contentsline {table}{\numberline {2.8}{\ignorespaces Fiche textuelle du cas "Ajouter commande"\relax }}{18}{table.caption.14}
+\contentsline {table}{\numberline {2.9}{\ignorespaces Fiche textuelle du cas "Visualiser facture"\relax }}{18}{table.caption.15}
+\contentsline {table}{\numberline {2.10}{\ignorespaces Fiche textuelle du cas "R\IeC {\'e}server un nom de domaine" \relax }}{19}{table.caption.16}
+\contentsline {table}{\numberline {2.11}{\ignorespaces Fiche textuelle du cas "Transf\IeC {\'e}rer un nom de domaine"\relax }}{19}{table.caption.17}
+\contentsline {table}{\numberline {2.12}{\ignorespaces Fiche textuelle du cas "Bannir client"\relax }}{20}{table.caption.18}
+\contentsline {table}{\numberline {2.13}{\ignorespaces Fiche textuelle du cas "changer de mot de passe en cas de perte "\relax }}{20}{table.caption.19}
+\contentsline {table}{\numberline {2.14}{\ignorespaces Fiche textuelle du cas "Ajouter un mode de paiement"\relax }}{21}{table.caption.20}
+\contentsline {table}{\numberline {2.15}{\ignorespaces Fiche textuelle du cas "Modifier TLD (top-level-domain)"\relax }}{21}{table.caption.21}
+\contentsline {table}{\numberline {2.16}{\ignorespaces Fiche textuelle du cas "Modifier un mode de paiement "\relax }}{22}{table.caption.22}
+\contentsline {table}{\numberline {2.17}{\ignorespaces Fiche textuelle du cas "Activer un mode de paiement"\relax }}{22}{table.caption.23}
+\contentsline {table}{\numberline {2.18}{\ignorespaces Fiche textuelle du cas "Modifier commande"\relax }}{23}{table.caption.24}
+\contentsline {table}{\numberline {2.19}{\ignorespaces Fiche textuelle du cas "Prendre un Hebergement"\relax }}{23}{table.caption.25}
+\contentsline {table}{\numberline {2.20}{\ignorespaces Fiche textuelle du cas "modifier vps"\relax }}{24}{table.caption.26}
+\contentsline {table}{\numberline {2.21}{\ignorespaces Fiche textuelle du cas "supprimer tld"\relax }}{24}{table.caption.27}
+\contentsline {table}{\numberline {2.22}{\ignorespaces Fiche textuelle du cas "supprimer ssl"\relax }}{25}{table.caption.28}
+\contentsline {table}{\numberline {2.23}{\ignorespaces Fiche textuelle du cas "supprimer vps" \relax }}{25}{table.caption.29}
+\contentsline {table}{\numberline {2.24}{\ignorespaces Fiche textuelle du cas "R\IeC {\'e}pondre aux Messages"\relax }}{26}{table.caption.30}
+\contentsline {table}{\numberline {2.25}{\ignorespaces Fiche textuelle du cas "Modifier Client"\relax }}{26}{table.caption.31}
+\addvspace {10\p@ }
+\contentsline {xchapter}{ Conception de la plateforme }{36}{chapter.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Plan d'affaires}{50}{chapter.4}
+\contentsline {xchapter}{}{54}{figure.caption.55}
+\contentsline {xchapter}{}{56}{figure.caption.55}

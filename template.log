@@ -1,0 +1,3405 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdflatex 2019.8.25)  13 OCT 2019 14:37
+entering extended mode
+**./template.tex
+(template.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 76 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\MT@toks=\toks17
+\MT@count=\count88
+LaTeX Info: Redefining \textls on input line 789.
+\MT@outer@kern=\dimen103
+LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
+\MT@listname@count=\count89
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2017/07/07 v2.7 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 912.
+LaTeX Info: Redefining \lslig on input line 912.
+\MT@outer@space=\skip43
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count92
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count93
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen105
+\Fld@menulength=\count94
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count98
+\c@bookmark@seq@number=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip45
+\aftertitleunit=\skip46
+\ttl@plus=\dimen108
+\ttl@minus=\dimen109
+\ttl@toksa=\toks18
+\titlewidth=\dimen110
+\titlewidthlast=\dimen111
+\titlewidthfirst=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries.sty"
+Package: glossaries 2017/06/11 v4.30 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count103
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.sty"
+Package: mfirstuc 2016/07/31 v2.04 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count104
+)
+\@glsmfirst=\toks23
+\@glsmrest=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
+Package: datatool-base 2016/07/28 v2.27 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen121
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen122
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count105
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count106
+\leftroot@=\count107
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count108
+\DOTSCASE@=\count109
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen123
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count110
+\c@MaxMatrixCols=\count111
+\dotsspace@=\muskip11
+\c@parentequation=\count112
+\dspbrk@lvl=\count113
+\tag@help=\toks26
+\row@=\count114
+\column@=\count115
+\maxfields@=\count116
+\andhelp@=\toks27
+\eqnshift@=\dimen124
+\alignsep@=\dimen125
+\tagshift@=\dimen126
+\tagwidth@=\dimen127
+\totwidth@=\dimen128
+\lineht@=\dimen129
+\@envbody=\toks28
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count117
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty"
+Package: datatool-fp 2016/07/28 v2.27 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count119
+\FP@xia=\count120
+\FP@xib=\count121
+\FP@xfa=\count122
+\FP@xfb=\count123
+\FP@rega=\count124
+\FP@regb=\count125
+\FP@regs=\count126
+\FP@times=\count127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks30
+\@dtl@tmpcount=\count129
+\dtl@tmplength=\skip50
+\dtl@sortresult=\count130
+\@dtl@numgrpsepcount=\count131
+\@dtl@datatype=\count132
+\dtl@codeA=\count133
+\dtl@codeB=\count134
+\@dtl@foreach@level=\count135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries-compatible-3
+07.sty"
+Package: glossaries-compatible-307 2017/06/11 v4.30 (NLCT)
+)
+\gls@level=\count136
+\@gls@tmpb=\toks31
+\gls@tmplen=\skip51
+\glskeylisttok=\toks32
+\glslabeltok=\toks33
+\glsshorttok=\toks34
+\glslongtok=\toks35
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-hypernav.sty
+"
+Package: glossary-hypernav 2017/06/11 v4.30 (NLCT)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-list.sty"
+Package: glossary-list 2017/06/11 v4.30 (NLCT)
+\glslistdottedwidth=\skip52
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-long.sty"
+Package: glossary-long 2017/06/11 v4.30 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count137
+\LTcapwidth=\dimen130
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count138
+\LT@rows=\count139
+\c@LT@tables=\count140
+\c@LT@chunks=\count141
+\LT@p@ftn=\toks36
+)
+\glsdescwidth=\skip57
+\glspagelistwidth=\skip58
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-super.sty"
+Package: glossary-super 2017/06/11 v4.30 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count142
+\ST@wd=\dimen131
+\ST@rightskip=\skip59
+\ST@leftskip=\skip60
+\ST@parfillskip=\skip61
+\ST@pageleft=\dimen132
+\ST@headht=\dimen133
+\ST@tailht=\dimen134
+\ST@pagesofar=\dimen135
+\ST@pboxht=\dimen136
+\ST@lineht=\dimen137
+\ST@stretchht=\dimen138
+\ST@prevht=\dimen139
+\ST@toadd=\dimen140
+\ST@dimen=\dimen141
+\ST@pbox=\box33
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-tree.sty"
+Package: glossary-tree 2017/06/11 v4.30 (NLCT)
+\glstreeindent=\skip62
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `template.glo'.
+
+Package glossaries Info: Writing glossary file template.glo on input line 16.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen142
+\enit@toks=\toks37
+\enit@inbox=\box34
+\enitdp@description=\count143
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\c@r@tfl@t=\count144
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box35
+\rot@mess@toks=\toks38
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen145
+\pgfutil@tempdimb=\dimen146
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box36
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks42
+))
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\w@pgf@writea=\write5
+\r@pgf@reada=\read1
+\c@pgf@counta=\count145
+\c@pgf@countb=\count146
+\c@pgf@countc=\count147
+\c@pgf@countd=\count148
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen155
+\pgfmath@count=\count151
+\pgfmath@box=\box37
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count152
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen156
+\pgf@picmaxx=\dimen157
+\pgf@picminy=\dimen158
+\pgf@picmaxy=\dimen159
+\pgf@pathminx=\dimen160
+\pgf@pathmaxx=\dimen161
+\pgf@pathminy=\dimen162
+\pgf@pathmaxy=\dimen163
+\pgf@xx=\dimen164
+\pgf@xy=\dimen165
+\pgf@yx=\dimen166
+\pgf@yy=\dimen167
+\pgf@zx=\dimen168
+\pgf@zy=\dimen169
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen170
+\pgf@path@lasty=\dimen171
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen172
+\pgf@shorten@start@additional=\dimen173
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count153
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen174
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen175
+\pgf@pt@y=\dimen176
+\pgf@pt@temp=\dimen177
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen178
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen179
+\pgf@sys@shading@range@num=\count154
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box41
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box42
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen180
+\pgf@nodesepend=\dimen181
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen182
+\pgffor@skip=\dimen183
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count155
+\pgfplotmarksize=\dimen184
+)
+\tikz@lastx=\dimen185
+\tikz@lasty=\dimen186
+\tikz@lastxsaved=\dimen187
+\tikz@lastysaved=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box43
+\tikz@figbox@bg=\box44
+\tikz@tempbox=\box45
+\tikz@tempbox@bg=\box46
+\tikztreelevel=\count156
+\tikznumberofchildren=\count157
+\tikznumberofcurrentchild=\count158
+\tikz@fig@count=\count159
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count160
+\pgfmatrixcurrentcolumn=\count161
+\pgf@matrix@numberofcolumns=\count162
+)
+\tikz@expandcount=\count163
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count164
+\calc@Bcount=\count165
+\calc@Adimen=\dimen191
+\calc@Bdimen=\dimen192
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count166
+\calc@Cskip=\skip68
+)
+\c@@todonotes@numberoftodonotes=\count167
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty"
+Package: tcolorbox 2017/07/05 version 4.10 text color boxes
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks51
+\verbatim@line=\toks52
+\verbatim@in@stream=\read2
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box47
+\tcb@upperbox=\box48
+\tcb@lowerbox=\box49
+\tcb@phantombox=\box50
+\c@tcbbreakpart=\count168
+\c@tcblayer=\count169
+\tcolorbox@number=\count170
+\tcb@temp=\box51
+\tcb@temp=\box52
+\tcb@temp=\box53
+\tcb@temp=\box54
+\tcb@out=\write6
+\tcb@record@out=\write7
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbraster.code.tex"
+Library (tcolorbox): 'tcbraster.code.tex' version '4.10'
+\c@tcbrastercolumn=\count171
+\c@tcbrasterrow=\count172
+\c@tcbraster=\count173
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskins.code.tex"
+Library (tcolorbox): 'tcbskins.code.tex' version '4.10'
+\tcb@waterbox=\box55
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex"
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.10'
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbbreakable.code.tex"
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.10'
+\tcb@testbox=\box56
+\tcb@totalupperbox=\box57
+\tcb@totallowerbox=\box58
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbhooks.code.tex"
+Library (tcolorbox): 'tcbhooks.code.tex' version '4.10'
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbtheorems.code.tex"
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.10'
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbfitting.code.tex"
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.10'
+\tcbfitdim=\dimen193
+\tcb@lowerfitdim=\dimen194
+\tcb@upperfitdim=\dimen195
+\tcb@cur@hbadness=\count174
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbxparse.code.tex"
+Library (tcolorbox): 'tcbxparse.code.tex' version '4.10'
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2017/07/19 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2017/07/19 L3 programming layer (code)
+\c_max_int=\count175
+\l_tmpa_int=\count176
+\l_tmpb_int=\count177
+\g_tmpa_int=\count178
+\g_tmpb_int=\count179
+\g__intarray_font_int=\count180
+\g__prg_map_int=\count181
+\c_log_iow=\count182
+\l_iow_line_count_int=\count183
+\l__iow_line_target_int=\count184
+\l__iow_one_indent_int=\count185
+\l__iow_indent_int=\count186
+\c_zero_dim=\dimen196
+\c_max_dim=\dimen197
+\l_tmpa_dim=\dimen198
+\l_tmpb_dim=\dimen199
+\g_tmpa_dim=\dimen256
+\g_tmpb_dim=\dimen257
+\c_zero_skip=\skip69
+\c_max_skip=\skip70
+\l_tmpa_skip=\skip71
+\l_tmpb_skip=\skip72
+\g_tmpa_skip=\skip73
+\g_tmpb_skip=\skip74
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count187
+\c__fp_leading_shift_int=\count188
+\c__fp_middle_shift_int=\count189
+\c__fp_trailing_shift_int=\count190
+\c__fp_big_leading_shift_int=\count191
+\c__fp_big_middle_shift_int=\count192
+\c__fp_big_trailing_shift_int=\count193
+\c__fp_Bigg_leading_shift_int=\count194
+\c__fp_Bigg_middle_shift_int=\count195
+\c__fp_Bigg_trailing_shift_int=\count196
+\c__fp_rand_size_int=\count197
+\c__fp_rand_four_int=\count198
+\c__fp_rand_eight_int=\count199
+\l__sort_length_int=\count266
+\l__sort_min_int=\count267
+\l__sort_top_int=\count268
+\l__sort_max_int=\count269
+\l__sort_true_max_int=\count270
+\l__sort_block_int=\count271
+\l__sort_begin_int=\count272
+\l__sort_end_int=\count273
+\l__sort_A_int=\count274
+\l__sort_B_int=\count275
+\l__sort_C_int=\count276
+\l__tl_build_start_index_int=\count277
+\l__tl_build_index_int=\count278
+\l__tl_analysis_normal_int=\count279
+\l__tl_analysis_index_int=\count280
+\l__tl_analysis_nesting_int=\count281
+\l__tl_analysis_type_int=\count282
+\l__regex_internal_a_int=\count283
+\l__regex_internal_b_int=\count284
+\l__regex_internal_c_int=\count285
+\l__regex_balance_int=\count286
+\l__regex_group_level_int=\count287
+\l__regex_mode_int=\count288
+\c__regex_cs_in_class_mode_int=\count289
+\c__regex_cs_mode_int=\count290
+\l__regex_catcodes_int=\count291
+\l__regex_default_catcodes_int=\count292
+\c__regex_catcode_D_int=\count293
+\c__regex_catcode_S_int=\count294
+\c__regex_catcode_L_int=\count295
+\c__regex_catcode_O_int=\count296
+\c__regex_catcode_A_int=\count297
+\c__regex_all_catcodes_int=\count298
+\l__regex_show_lines_int=\count299
+\l__regex_min_state_int=\count300
+\l__regex_max_state_int=\count301
+\l__regex_left_state_int=\count302
+\l__regex_right_state_int=\count303
+\l__regex_capturing_group_int=\count304
+\l__regex_min_pos_int=\count305
+\l__regex_max_pos_int=\count306
+\l__regex_curr_pos_int=\count307
+\l__regex_start_pos_int=\count308
+\l__regex_success_pos_int=\count309
+\l__regex_curr_char_int=\count310
+\l__regex_curr_catcode_int=\count311
+\l__regex_last_char_int=\count312
+\l__regex_case_changed_char_int=\count313
+\l__regex_curr_state_int=\count314
+\l__regex_step_int=\count315
+\l__regex_min_active_int=\count316
+\l__regex_max_active_int=\count317
+\l__regex_replacement_csnames_int=\count318
+\l__regex_match_count_int=\count319
+\l__regex_min_submatch_int=\count320
+\l__regex_submatch_int=\count321
+\l__regex_zeroth_submatch_int=\count322
+\g__debug_trace_regex_int=\count323
+\c_empty_box=\box59
+\l_tmpa_box=\box60
+\l_tmpb_box=\box61
+\g_tmpa_box=\box62
+\g_tmpb_box=\box63
+\l__box_top_dim=\dimen258
+\l__box_bottom_dim=\dimen259
+\l__box_left_dim=\dimen260
+\l__box_right_dim=\dimen261
+\l__box_top_new_dim=\dimen262
+\l__box_bottom_new_dim=\dimen263
+\l__box_left_new_dim=\dimen264
+\l__box_right_new_dim=\dimen265
+\l__box_internal_box=\box64
+\l__coffin_internal_box=\box65
+\l__coffin_internal_dim=\dimen266
+\l__coffin_offset_x_dim=\dimen267
+\l__coffin_offset_y_dim=\dimen268
+\l__coffin_x_dim=\dimen269
+\l__coffin_y_dim=\dimen270
+\l__coffin_x_prime_dim=\dimen271
+\l__coffin_y_prime_dim=\dimen272
+\c_empty_coffin=\box66
+\l__coffin_aligned_coffin=\box67
+\l__coffin_aligned_internal_coffin=\box68
+\l_tmpa_coffin=\box69
+\l_tmpb_coffin=\box70
+\l__coffin_display_coffin=\box71
+\l__coffin_display_coord_coffin=\box72
+\l__coffin_display_pole_coffin=\box73
+\l__coffin_display_offset_dim=\dimen273
+\l__coffin_display_x_dim=\dimen274
+\l__coffin_display_y_dim=\dimen275
+\l__coffin_bounding_shift_dim=\dimen276
+\l__coffin_left_corner_dim=\dimen277
+\l__coffin_right_corner_dim=\dimen278
+\l__coffin_bottom_corner_dim=\dimen279
+\l__coffin_top_corner_dim=\dimen280
+\l__coffin_scaled_total_height_dim=\dimen281
+\l__coffin_scaled_width_dim=\dimen282
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count324
+\l__driver_tmp_box=\box74
+))
+Package: xparse 2017/07/19 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count325
+\g__xparse_grabber_int=\count326
+\l__xparse_m_args_int=\count327
+\l__xparse_mandatory_args_int=\count328
+\l__xparse_v_nesting_int=\count329
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tcboxverb with sig. ' O{} v ' on line 128.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tcbsidebyside with sig. ' +O{} +m +m ' on line 280.
+.................................................
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingsutf8.code.tex"
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '4.10'
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty"
+Package: listingsutf8 2016/05/16 v1.3 Allow UTF-8 in listings input (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count330
+\lst@gtempboxa=\box75
+\lst@token=\toks53
+\lst@length=\count331
+\lst@currlwidth=\dimen283
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen284
+\lst@width=\dimen285
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen286
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
+\lst@framebox=\box76
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistings.code.tex"
+Library (tcolorbox): 'tcblistings.code.tex' version '4.10'
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingscore.code.tex"
+Library (tcolorbox): 'tcblistingscore.code.tex' version '4.10'
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbprocessing.code.tex"
+Library (tcolorbox): 'tcbprocessing.code.tex' version '4.10'
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+))
+\c@tcblisting=\count338
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbexternal.code.tex"
+Library (tcolorbox): 'tcbexternal.code.tex' version '4.10'
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbmagazine.code.tex"
+Library (tcolorbox): 'tcbmagazine.code.tex' version '4.10'
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbvignette.code.tex"
+Library (tcolorbox): 'tcbvignette.code.tex' version '4.10'
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+libraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.
+tex"
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbposter.code.tex"
+Library (tcolorbox): 'tcbposter.code.tex' version '4.10'
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks54
+\AP@partial=\box77
+\AP@footins=\box78
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fncychap\fncychap.sty"
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip75
+\mylen=\skip76
+\myhi=\skip77
+\px=\skip78
+\py=\skip79
+\pyy=\skip80
+\pxx=\skip81
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip82
+\f@nch@O@elh=\skip83
+\f@nch@O@erh=\skip84
+\f@nch@O@olh=\skip85
+\f@nch@O@orh=\skip86
+\f@nch@O@elf=\skip87
+\f@nch@O@erf=\skip88
+\f@nch@O@olf=\skip89
+\f@nch@O@orf=\skip90
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen287
+\extrarowheight=\dimen288
+\NC@list=\toks55
+\extratabsurround=\skip91
+\backup@length=\skip92
+)
+\TX@col@width=\dimen289
+\TX@old@table=\dimen290
+\TX@old@col=\dimen291
+\TX@target=\dimen292
+\TX@delta=\dimen293
+\TX@cols=\count339
+\TX@ftn=\toks56
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen294
+\captionmargin@=\dimen295
+\captionwidth=\dimen296
+\caption@tempdima=\dimen297
+\caption@indent=\dimen298
+\caption@parindent=\dimen299
+\caption@hangindent=\dimen300
+)
+\c@ContinuedFloat=\count340
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/06/29 3.12 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/06/29 3.12 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\frenchb.ldf"
+Language: frenchb 2017/07/08 v3.3b French support from the babel system
+
+
+Package babel-french Warning: Option `frenchb' for Babel is *deprecated*,
+(babel-french)                it might be removed sooner or later. Please
+(babel-french)                use `french' instead; reported on input line 35.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\french.ldf"
+Language: french 2017/07/08 v3.3b French support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/06/29 3.12 Babel common definitions
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/06/29 3.12 Babel switching mechanism
+)
+\babel@savecnt=\count341
+\U@D=\dimen301
+)
+\FB@nonchar=\count342
+\FBcolonsp=\toks57
+\FBthinsp=\toks58
+Package babel Info: Making : an active character on input line 321.
+Package babel Info: Making ; an active character on input line 322.
+Package babel Info: Making ! an active character on input line 323.
+Package babel Info: Making ? an active character on input line 324.
+\FBguillsp=\toks59
+\FBguill@level=\count343
+\FB@everypar=\toks60
+\FB@Mht=\dimen302
+\mc@charclass=\count344
+\mc@charfam=\count345
+\mc@charslot=\count346
+\std@mcc=\count347
+\dec@mcc=\count348
+
+
+Package french.ldf Warning: Please load the "caption" package
+(french.ldf)                AFTER babel/frenchb; reported on input line 892.
+
+
+Package french.ldf Warning: Please load the "listings" package
+(french.ldf)                AFTER babel/frenchb; reported on input line 947.
+
+\listindentFB=\skip93
+\descindentFB=\skip94
+\labelwidthFB=\skip95
+\leftmarginFB=\skip96
+\parindentFFN=\dimen303
+\FBfnindent=\skip97
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count349
+\c@subtable=\count350
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\minitoc.sty"
+Package: minitoc 2015/07/13 v61 Package minitoc
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\mtcmess.sty"
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 61 ***.
+\tf@mtc=\write8
+\mtcindent=\skip98
+\mtcskipamount=\skip99
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks61
+\mtc@strutbox=\box79
+\mtc@hstrutbox=\box80
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout8 = `template.mtc0'.
+
+\openout8 = `template.mtc'.
+
+ (template.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout8 = `template.mtc'.
+
+\openout8 = `template.mtc0'.
+
+\c@mtc=\count351
+\c@minitocdepth=\count352
+\c@ptc=\count353
+\c@parttocdepth=\count354
+\ptcindent=\skip100
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4909.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\english.mld"
+File: english.mld 2006/01/13
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\english.mld"
+File: english.mld 2006/01/13
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count355
+\float@exts=\toks62
+\float@box=\box81
+\@float@everytoks=\toks63
+\@floatcapt=\box82
+)
+\mybox=\box83
+\mydepth=\skip101
+\myheight=\skip102
+ (template.aux
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+
+LaTeX Warning: Label `Tux' multiply defined.
+
+)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 81.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Info: Redefining \microtypecontext on input line 81.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\AtBeginShipoutBox=\box84
+Package hyperref Info: Link coloring ON on input line 81.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count356
+)
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
+
+(template.out) (template.out)
+\@outlinefile=\write9
+\openout9 = `template.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count357
+\scratchdimen=\dimen304
+\scratchbox=\box85
+\nofMPsegments=\count358
+\nofMParguments=\count359
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count360
+\MPscratchDim=\dimen305
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
+\everyMPtoPDFconversion=\toks65
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+\c@lstlisting=\count363
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \degres on input line 81.
+LaTeX Info: Redefining \dots on input line 81.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 81.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 81.
+LaTeX Info: Redefining \up on input line 81.
+
+
+Package french.ldf Warning: OT1 encoding should not be used for French.
+(french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(french.ldf)                of your document; reported on input line 81.
+
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 91.
+<img/flag.png, id=181, 521.95pt x 417.56pt>
+File: img/flag.png Graphic file (type png)
+<use img/flag.png>
+Package pdftex.def Info: img/flag.png  used on input line 92. on input line 92.
+
+Package pdftex.def Info: Requested size: 52.19804pt x 41.75844pt on input line 
+92.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 93.
+<img/ucad.jpg, id=182, 414.04688pt x 414.04688pt>
+File: img/ucad.jpg Graphic file (type jpg)
+<use img/ucad.jpg>
+Package pdftex.def Info: img/ucad.jpg  used on input line 94. on input line 94.
+
+Package pdftex.def Info: Requested size: 82.80789pt x 82.80789pt on input line 
+94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 103.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
+6.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
+6.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
+6.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
+6.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+<img/gtech.png, id=183, 1505.625pt x 524.96124pt>
+File: img/gtech.png Graphic file (type png)
+<use img/gtech.png>
+Package pdftex.def Info: img/gtech.png  used on input line 122. on input line 1
+22.
+Package pdftex.def Info: Requested size: 150.57132pt x 52.49919pt on input line
+ 122.
+ [1
+
+\openout3 = `template.ist'.
+
+{C:/Users/babacar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/fla
+g.png (PNG copy)> <./img/ucad.jpg> <./img/gtech.png (PNG copy)>]pdfTeX warning 
+(ext4): destination with the same identifier (name{page.1}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.149 	\begin{titlepage}
+                         [1
+
+]
+File: img/flag.png Graphic file (type png)
+<use img/flag.png>
+Package pdftex.def Info: img/flag.png  used on input line 158. on input line 15
+8.
+Package pdftex.def Info: Requested size: 52.19804pt x 41.75844pt on input line 
+158.
+File: img/ucad.jpg Graphic file (type jpg)
+<use img/ucad.jpg>
+Package pdftex.def Info: img/ucad.jpg  used on input line 160. on input line 16
+0.
+Package pdftex.def Info: Requested size: 82.80789pt x 82.80789pt on input line 
+160.
+File: img/gtech.png Graphic file (type png)
+<use img/gtech.png>
+Package pdftex.def Info: img/gtech.png  used on input line 188. on input line 1
+88.
+Package pdftex.def Info: Requested size: 150.57132pt x 52.49919pt on input line
+ 188.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 	\end{titlepage}
+                       [1]
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM template.toc on input line 215.
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc1.
+\openout8 = `template.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc2.
+\openout8 = `template.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc3.
+\openout8 = `template.mtc3'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc4.
+\openout8 = `template.mtc4'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc5.
+\openout8 = `template.mtc5'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc6.
+\openout8 = `template.mtc6'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing template.mtc7.
+\openout8 = `template.mtc7'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 215.
+ [1
+
+] [2
+
+] [3
+
+] (template.toc [4
+
+])
+\tf@toc=\write10
+\openout10 = `template.toc'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5] [6
+
+] (template.lof)
+\tf@lof=\write11
+\openout11 = `template.lof'.
+
+ [7
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8] (template.lot)
+\tf@lot=\write12
+\openout12 = `template.lot'.
+
+ [9
+
+] [10
+
+] [11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--272
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.278 \chapter
+              {Présentation Générale} [1
+
+]
+Chapitre 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 278.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 279.
+\openout8 = `template.mtc'.
+
+\openout8 = `template.mtc'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 282.
+ (template.mtc2)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 282.
+<img/organigramme.png, id=399, 493.3632pt x 177.5433pt>
+File: img/organigramme.png Graphic file (type png)
+<use img/organigramme.png>
+Package pdftex.def Info: img/organigramme.png  used on input line 287. on input
+ line 287.
+Package pdftex.def Info: Requested size: 493.362pt x 177.54285pt on input line 
+287.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 287--288
+ [][] 
+ []
+
+[2
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <./img/organigramme.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 311--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--324
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+<img/scrumprocess.png, id=420, 492.6405pt x 356.2911pt>
+File: img/scrumprocess.png Graphic file (type png)
+<use img/scrumprocess.png>
+Package pdftex.def Info: img/scrumprocess.png  used on input line 378. on input
+ line 378.
+Package pdftex.def Info: Requested size: 492.6393pt x 356.29022pt on input line
+ 378.
+
+Overfull \hbox (8.94243pt too wide) in paragraph at lines 378--379
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--381
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7 <./img/scrumprocess.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+Chapitre 2.
+\openout8 = `template.mtc'.
+
+\openout8 = `template.mtc'.
+
+(template.mtc3) [9
+
+]
+<img/cas-visiteur.png, id=443, 493.3632pt x 370.986pt>
+File: img/cas-visiteur.png Graphic file (type png)
+<use img/cas-visiteur.png>
+Package pdftex.def Info: img/cas-visiteur.png  used on input line 440. on input
+ line 440.
+Package pdftex.def Info: Requested size: 493.362pt x 370.98508pt on input line 
+440.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 440--441
+ [][] 
+ []
+
+<img/cas-client.png, id=444, 493.3632pt x 280.4076pt>
+File: img/cas-client.png Graphic file (type png)
+<use img/cas-client.png>
+Package pdftex.def Info: img/cas-client.png  used on input line 446. on input l
+ine 446.
+Package pdftex.def Info: Requested size: 493.362pt x 280.4069pt on input line 4
+46.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 446--447
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+<img/cas-admin.png, id=449, 493.3632pt x 328.5876pt>
+File: img/cas-admin.png Graphic file (type png)
+<use img/cas-admin.png>
+Package pdftex.def Info: img/cas-admin.png  used on input line 452. on input li
+ne 452.
+Package pdftex.def Info: Requested size: 493.362pt x 328.58679pt on input line 
+452.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 452--453
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11 <./img/cas-visiteur.png>]
+<img/cas-technique.png, id=455, 493.3632pt x 272.6988pt>
+File: img/cas-technique.png Graphic file (type png)
+<use img/cas-technique.png>
+Package pdftex.def Info: img/cas-technique.png  used on input line 458. on inpu
+t line 458.
+Package pdftex.def Info: Requested size: 493.362pt x 272.69812pt on input line 
+458.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 458--459
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12 <./img/cas-client.png> <./img/cas-admin.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13 <./img/cas-technique.png>]
+<img/fiche/1.png, id=464, 493.3632pt x 268.3626pt>
+File: img/fiche/1.png Graphic file (type png)
+<use img/fiche/1.png>
+Package pdftex.def Info: img/fiche/1.png  used on input line 505. on input line
+ 505.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+505.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 505--506
+ [][] 
+ []
+
+<img/fiche/2.png, id=465, 493.3632pt x 268.3626pt>
+File: img/fiche/2.png Graphic file (type png)
+<use img/fiche/2.png>
+Package pdftex.def Info: img/fiche/2.png  used on input line 511. on input line
+ 511.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+511.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 511--512
+ [][] 
+ []
+
+<img/fiche/3.png, id=466, 493.3632pt x 268.3626pt>
+File: img/fiche/3.png Graphic file (type png)
+<use img/fiche/3.png>
+Package pdftex.def Info: img/fiche/3.png  used on input line 517. on input line
+ 517.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+517.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 517--518
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <./img/fiche/1.png>]
+<img/fiche/4.png, id=471, 493.3632pt x 268.3626pt>
+File: img/fiche/4.png Graphic file (type png)
+<use img/fiche/4.png>
+Package pdftex.def Info: img/fiche/4.png  used on input line 523. on input line
+ 523.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+523.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 523--524
+ [][] 
+ []
+
+<img/fiche/5.png, id=472, 493.3632pt x 268.3626pt>
+File: img/fiche/5.png Graphic file (type png)
+<use img/fiche/5.png>
+Package pdftex.def Info: img/fiche/5.png  used on input line 529. on input line
+ 529.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+529.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 529--530
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15 <./img/fiche/2.png> <./img/fiche/3.png>]
+<img/fiche/6.png, id=477, 493.3632pt x 268.3626pt>
+File: img/fiche/6.png Graphic file (type png)
+<use img/fiche/6.png>
+Package pdftex.def Info: img/fiche/6.png  used on input line 535. on input line
+ 535.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+535.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 535--536
+ [][] 
+ []
+
+<img/fiche/7.png, id=478, 493.3632pt x 268.3626pt>
+File: img/fiche/7.png Graphic file (type png)
+<use img/fiche/7.png>
+Package pdftex.def Info: img/fiche/7.png  used on input line 541. on input line
+ 541.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+541.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 541--542
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16 <./img/fiche/4.png> <./img/fiche/5.png>]
+<img/fiche/8.png, id=483, 493.3632pt x 268.3626pt>
+File: img/fiche/8.png Graphic file (type png)
+<use img/fiche/8.png>
+Package pdftex.def Info: img/fiche/8.png  used on input line 547. on input line
+ 547.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+547.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 547--548
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17 <./img/fiche/6.png> <./img/fiche/7.png>]
+<img/fiche/9.png, id=489, 493.3632pt x 268.3626pt>
+File: img/fiche/9.png Graphic file (type png)
+<use img/fiche/9.png>
+Package pdftex.def Info: img/fiche/9.png  used on input line 554. on input line
+ 554.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+554.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 554--555
+ [][] 
+ []
+
+<img/fiche/10.png, id=490, 493.3632pt x 268.3626pt>
+File: img/fiche/10.png Graphic file (type png)
+<use img/fiche/10.png>
+Package pdftex.def Info: img/fiche/10.png  used on input line 560. on input lin
+e 560.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+560.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 560--561
+ [][] 
+ []
+
+<img/fiche/11.png, id=491, 493.3632pt x 268.3626pt>
+File: img/fiche/11.png Graphic file (type png)
+<use img/fiche/11.png>
+Package pdftex.def Info: img/fiche/11.png  used on input line 566. on input lin
+e 566.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+566.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 566--567
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18 <./img/fiche/8.png> <./img/fiche/9.png>]
+<img/fiche/12.png, id=496, 493.3632pt x 268.3626pt>
+File: img/fiche/12.png Graphic file (type png)
+<use img/fiche/12.png>
+Package pdftex.def Info: img/fiche/12.png  used on input line 572. on input lin
+e 572.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+572.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 572--573
+ [][] 
+ []
+
+<img/fiche/13.png, id=497, 493.3632pt x 268.3626pt>
+File: img/fiche/13.png Graphic file (type png)
+<use img/fiche/13.png>
+Package pdftex.def Info: img/fiche/13.png  used on input line 578. on input lin
+e 578.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+578.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 578--579
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19 <./img/fiche/10.png> <./img/fiche/11.png>]
+<img/fiche/14.png, id=502, 493.3632pt x 268.3626pt>
+File: img/fiche/14.png Graphic file (type png)
+<use img/fiche/14.png>
+Package pdftex.def Info: img/fiche/14.png  used on input line 584. on input lin
+e 584.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+584.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 584--585
+ [][] 
+ []
+
+<img/fiche/15.png, id=503, 493.3632pt x 268.3626pt>
+File: img/fiche/15.png Graphic file (type png)
+<use img/fiche/15.png>
+Package pdftex.def Info: img/fiche/15.png  used on input line 590. on input lin
+e 590.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+590.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 590--591
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20 <./img/fiche/12.png> <./img/fiche/13.png>]
+<img/fiche/16.png, id=508, 493.3632pt x 268.3626pt>
+File: img/fiche/16.png Graphic file (type png)
+<use img/fiche/16.png>
+Package pdftex.def Info: img/fiche/16.png  used on input line 596. on input lin
+e 596.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+596.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 596--597
+ [][] 
+ []
+
+<img/fiche/17.png, id=509, 493.3632pt x 268.3626pt>
+File: img/fiche/17.png Graphic file (type png)
+<use img/fiche/17.png>
+Package pdftex.def Info: img/fiche/17.png  used on input line 602. on input lin
+e 602.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+602.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 602--603
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21 <./img/fiche/14.png> <./img/fiche/15.png>]
+<img/fiche/18.png, id=514, 493.3632pt x 268.3626pt>
+File: img/fiche/18.png Graphic file (type png)
+<use img/fiche/18.png>
+Package pdftex.def Info: img/fiche/18.png  used on input line 608. on input lin
+e 608.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+608.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 608--609
+ [][] 
+ []
+
+<img/fiche/19.png, id=515, 493.3632pt x 268.3626pt>
+File: img/fiche/19.png Graphic file (type png)
+<use img/fiche/19.png>
+Package pdftex.def Info: img/fiche/19.png  used on input line 614. on input lin
+e 614.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+614.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 614--615
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./img/fiche/16.png> <./img/fiche/17.png>]
+<img/fiche/20.png, id=520, 493.3632pt x 268.3626pt>
+File: img/fiche/20.png Graphic file (type png)
+<use img/fiche/20.png>
+Package pdftex.def Info: img/fiche/20.png  used on input line 620. on input lin
+e 620.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+620.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 620--621
+ [][] 
+ []
+
+<img/fiche/21.png, id=521, 493.3632pt x 268.3626pt>
+File: img/fiche/21.png Graphic file (type png)
+<use img/fiche/21.png>
+Package pdftex.def Info: img/fiche/21.png  used on input line 626. on input lin
+e 626.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+626.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 626--627
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23 <./img/fiche/18.png> <./img/fiche/19.png>]
+<img/fiche/22.png, id=527, 493.3632pt x 268.3626pt>
+File: img/fiche/22.png Graphic file (type png)
+<use img/fiche/22.png>
+Package pdftex.def Info: img/fiche/22.png  used on input line 632. on input lin
+e 632.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+632.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 632--633
+ [][] 
+ []
+
+<img/fiche/23.png, id=528, 493.3632pt x 268.3626pt>
+File: img/fiche/23.png Graphic file (type png)
+<use img/fiche/23.png>
+Package pdftex.def Info: img/fiche/23.png  used on input line 638. on input lin
+e 638.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+638.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 638--639
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./img/fiche/20.png> <./img/fiche/21.png>]
+<img/fiche/24.png, id=533, 493.3632pt x 268.3626pt>
+File: img/fiche/24.png Graphic file (type png)
+<use img/fiche/24.png>
+Package pdftex.def Info: img/fiche/24.png  used on input line 644. on input lin
+e 644.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+644.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 644--645
+ [][] 
+ []
+
+<img/fiche/25.png, id=534, 493.3632pt x 268.3626pt>
+File: img/fiche/25.png Graphic file (type png)
+<use img/fiche/25.png>
+Package pdftex.def Info: img/fiche/25.png  used on input line 650. on input lin
+e 650.
+Package pdftex.def Info: Requested size: 493.362pt x 268.36194pt on input line 
+650.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 650--651
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25 <./img/fiche/22.png> <./img/fiche/23.png>]
+<img/sequence/1.png, id=539, 493.3632pt x 331.7193pt>
+File: img/sequence/1.png Graphic file (type png)
+<use img/sequence/1.png>
+Package pdftex.def Info: img/sequence/1.png  used on input line 659. on input l
+ine 659.
+Package pdftex.def Info: Requested size: 493.362pt x 331.71848pt on input line 
+659.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 659--660
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26 <./img/fiche/24.png> <./img/fiche/25.png>]
+<img/sequence/2.png, id=544, 493.3632pt x 383.5128pt>
+File: img/sequence/2.png Graphic file (type png)
+<use img/sequence/2.png>
+Package pdftex.def Info: img/sequence/2.png  used on input line 668. on input l
+ine 668.
+Package pdftex.def Info: Requested size: 493.362pt x 383.51186pt on input line 
+668.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 668--669
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27 <./img/sequence/1.png>]
+<img/sequence/3.png, id=549, 493.3632pt x 345.9324pt>
+File: img/sequence/3.png Graphic file (type png)
+<use img/sequence/3.png>
+Package pdftex.def Info: img/sequence/3.png  used on input line 675. on input l
+ine 675.
+Package pdftex.def Info: Requested size: 493.362pt x 345.93155pt on input line 
+675.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 675--676
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28 <./img/sequence/2.png>]
+<img/sequence/4.png, id=554, 493.3632pt x 395.5578pt>
+File: img/sequence/4.png Graphic file (type png)
+<use img/sequence/4.png>
+Package pdftex.def Info: img/sequence/4.png  used on input line 683. on input l
+ine 683.
+Package pdftex.def Info: Requested size: 493.362pt x 395.55682pt on input line 
+683.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 683--684
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <./img/sequence/3.png>]
+<img/sequence/5.png, id=560, 493.3632pt x 370.0224pt>
+File: img/sequence/5.png Graphic file (type png)
+<use img/sequence/5.png>
+Package pdftex.def Info: img/sequence/5.png  used on input line 690. on input l
+ine 690.
+Package pdftex.def Info: Requested size: 493.362pt x 370.02148pt on input line 
+690.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 690--691
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30 <./img/sequence/4.png>]
+<img/sequence/6.png, id=565, 493.3632pt x 412.9026pt>
+File: img/sequence/6.png Graphic file (type png)
+<use img/sequence/6.png>
+Package pdftex.def Info: img/sequence/6.png  used on input line 697. on input l
+ine 697.
+Package pdftex.def Info: Requested size: 493.362pt x 412.90158pt on input line 
+697.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 697--698
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31 <./img/sequence/5.png>]
+<img/sequence/7.png, id=570, 493.3632pt x 375.804pt>
+File: img/sequence/7.png Graphic file (type png)
+<use img/sequence/7.png>
+Package pdftex.def Info: img/sequence/7.png  used on input line 706. on input l
+ine 706.
+Package pdftex.def Info: Requested size: 493.362pt x 375.80309pt on input line 
+706.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 706--707
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32 <./img/sequence/6.png>]
+<img/diagclasse/1.png, id=575, 493.3632pt x 286.671pt>
+File: img/diagclasse/1.png Graphic file (type png)
+<use img/diagclasse/1.png>
+Package pdftex.def Info: img/diagclasse/1.png  used on input line 716. on input
+ line 716.
+Package pdftex.def Info: Requested size: 493.362pt x 286.67029pt on input line 
+716.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 716--717
+ [][] 
+ []
+
+<img/diagclasse/2.png, id=576, 493.3632pt x 243.5499pt>
+File: img/diagclasse/2.png Graphic file (type png)
+<use img/diagclasse/2.png>
+Package pdftex.def Info: img/diagclasse/2.png  used on input line 722. on input
+ line 722.
+Package pdftex.def Info: Requested size: 493.362pt x 243.5493pt on input line 7
+22.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 722--723
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33 <./img/sequence/7.png>]
+<img/diagclasse/3.png, id=581, 493.3632pt x 286.671pt>
+File: img/diagclasse/3.png Graphic file (type png)
+<use img/diagclasse/3.png>
+Package pdftex.def Info: img/diagclasse/3.png  used on input line 728. on input
+ line 728.
+Package pdftex.def Info: Requested size: 493.362pt x 286.67029pt on input line 
+728.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 728--729
+ [][] 
+ []
+
+<img/diagclasse/4.png, id=582, 493.3632pt x 243.5499pt>
+File: img/diagclasse/4.png Graphic file (type png)
+<use img/diagclasse/4.png>
+Package pdftex.def Info: img/diagclasse/4.png  used on input line 734. on input
+ line 734.
+Package pdftex.def Info: Requested size: 493.362pt x 243.5493pt on input line 7
+34.
+
+Overfull \hbox (9.66513pt too wide) in paragraph at lines 734--735
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34 <./img/diagclasse/1.png> <./img/diagclasse/2.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35 <./img/diagclasse/3.png> <./img/diagclasse/4.png>]
+Chapitre 3.
+\openout8 = `template.mtc'.
+
+\openout8 = `template.mtc'.
+
+(template.mtc4)
+<img/outils/1.png, id=596, 430.60875pt x 175.65625pt>
+File: img/outils/1.png Graphic file (type png)
+<use img/outils/1.png>
+Package pdftex.def Info: img/outils/1.png  used on input line 750. on input lin
+e 750.
+Package pdftex.def Info: Requested size: 430.60768pt x 175.6558pt on input line
+ 750.
+ [36
+
+ <./img/outils/1.png>]
+<img/outils/2.png, id=603, 322.95656pt x 131.74219pt>
+File: img/outils/2.png Graphic file (type png)
+<use img/outils/2.png>
+Package pdftex.def Info: img/outils/2.png  used on input line 758. on input lin
+e 758.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 758.
+<img/outils/3.png, id=604, 322.95656pt x 131.74219pt>
+File: img/outils/3.png Graphic file (type png)
+<use img/outils/3.png>
+Package pdftex.def Info: img/outils/3.png  used on input line 765. on input lin
+e 765.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 765.
+<img/outils/4.png, id=605, 322.95656pt x 131.74219pt>
+File: img/outils/4.png Graphic file (type png)
+<use img/outils/4.png>
+Package pdftex.def Info: img/outils/4.png  used on input line 773. on input lin
+e 773.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 773.
+<img/outils/5.png, id=606, 322.95656pt x 131.74219pt>
+File: img/outils/5.png Graphic file (type png)
+<use img/outils/5.png>
+Package pdftex.def Info: img/outils/5.png  used on input line 792. on input lin
+e 792.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 792.
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--795
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37 <./img/outils/2.png (PNG copy)> <./img/outils/3.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38 <./img/outils/4.png (PNG copy)>]
+<img/outils/6.png, id=615, 322.95656pt x 131.74219pt>
+File: img/outils/6.png Graphic file (type png)
+<use img/outils/6.png>
+Package pdftex.def Info: img/outils/6.png  used on input line 798. on input lin
+e 798.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 798.
+<img/outils/7.png, id=616, 430.60875pt x 175.65625pt>
+File: img/outils/7.png Graphic file (type png)
+<use img/outils/7.png>
+Package pdftex.def Info: img/outils/7.png  used on input line 808. on input lin
+e 808.
+Package pdftex.def Info: Requested size: 430.60768pt x 175.6558pt on input line
+ 808.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39 <./img/outils/5.png (PNG copy)> <./img/outils/6.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 812--820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--820
+
+ []
+
+<img/outils/8.png, id=621, 436.67366pt x 178.13028pt>
+File: img/outils/8.png Graphic file (type png)
+<use img/outils/8.png>
+Package pdftex.def Info: img/outils/8.png  used on input line 823. on input lin
+e 823.
+Package pdftex.def Info: Requested size: 436.67258pt x 178.12984pt on input lin
+e 823.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40 <./img/outils/7.png>]
+<img/outils/9.png, id=627, 322.95656pt x 131.74219pt>
+File: img/outils/9.png Graphic file (type png)
+<use img/outils/9.png>
+Package pdftex.def Info: img/outils/9.png  used on input line 832. on input lin
+e 832.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 832.
+<img/outils/10.png, id=628, 322.95656pt x 131.74219pt>
+File: img/outils/10.png Graphic file (type png)
+<use img/outils/10.png>
+Package pdftex.def Info: img/outils/10.png  used on input line 838. on input li
+ne 838.
+Package pdftex.def Info: Requested size: 322.95576pt x 131.74185pt on input lin
+e 838.
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--841
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--841
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41 <./img/outils/8.png (PNG copy)> <./img/outils/9.png>]
+<img/outils/11.png, id=635, 310.0383pt x 126.4725pt>
+File: img/outils/11.png Graphic file (type png)
+<use img/outils/11.png>
+Package pdftex.def Info: img/outils/11.png  used on input line 844. on input li
+ne 844.
+Package pdftex.def Info: Requested size: 310.03754pt x 126.47218pt on input lin
+e 844.
+<img/outils/12.png, id=636, 430.60875pt x 175.65625pt>
+File: img/outils/12.png Graphic file (type png)
+<use img/outils/12.png>
+Package pdftex.def Info: img/outils/12.png  used on input line 851. on input li
+ne 851.
+Package pdftex.def Info: Requested size: 430.60768pt x 175.6558pt on input line
+ 851.
+<img/outils/13.png, id=637, 430.60875pt x 175.65625pt>
+File: img/outils/13.png Graphic file (type png)
+<use img/outils/13.png>
+Package pdftex.def Info: img/outils/13.png  used on input line 860. on input li
+ne 860.
+Package pdftex.def Info: Requested size: 430.60768pt x 175.6558pt on input line
+ 860.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42 <./img/outils/10.png (PNG copy)> <./img/outils/11.png (PNG copy)>]
+<img/solution/1.png, id=642, 489.32813pt x 263.48438pt>
+File: img/solution/1.png Graphic file (type png)
+<use img/solution/1.png>
+Package pdftex.def Info: img/solution/1.png  used on input line 869. on input l
+ine 869.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 869.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 869--870
+ [][] 
+ []
+
+<img/solution/2.png, id=643, 489.32813pt x 263.48438pt>
+File: img/solution/2.png Graphic file (type png)
+<use img/solution/2.png>
+Package pdftex.def Info: img/solution/2.png  used on input line 875. on input l
+ine 875.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 875.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 875--876
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43 <./img/outils/12.png (PNG copy)> <./img/outils/13.png (PNG copy)>]
+<img/solution/3.png, id=648, 489.32813pt x 263.48438pt>
+File: img/solution/3.png Graphic file (type png)
+<use img/solution/3.png>
+Package pdftex.def Info: img/solution/3.png  used on input line 881. on input l
+ine 881.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 881.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 881--882
+ [][] 
+ []
+
+<img/solution/4.png, id=649, 489.32813pt x 263.48438pt>
+File: img/solution/4.png Graphic file (type png)
+<use img/solution/4.png>
+Package pdftex.def Info: img/solution/4.png  used on input line 887. on input l
+ine 887.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 887.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 887--888
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44 <./img/solution/1.png (PNG copy)> <./img/solution/2.png (PNG copy)>]
+<img/solution/5.png, id=654, 489.32813pt x 263.48438pt>
+File: img/solution/5.png Graphic file (type png)
+<use img/solution/5.png>
+Package pdftex.def Info: img/solution/5.png  used on input line 894. on input l
+ine 894.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 894.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 894--895
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[45 <./img/solution/3.png (PNG copy)> <./img/solution/4.png (PNG copy)>]
+<img/solution/6.png, id=659, 489.32813pt x 188.20313pt>
+File: img/solution/6.png Graphic file (type png)
+<use img/solution/6.png>
+Package pdftex.def Info: img/solution/6.png  used on input line 904. on input l
+ine 904.
+Package pdftex.def Info: Requested size: 489.32692pt x 188.20265pt on input lin
+e 904.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 904--905
+ [][] 
+ []
+
+<img/solution/7.png, id=660, 489.32813pt x 263.48438pt>
+File: img/solution/7.png Graphic file (type png)
+<use img/solution/7.png>
+Package pdftex.def Info: img/solution/7.png  used on input line 911. on input l
+ine 911.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 911.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 911--912
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[46 <./img/solution/5.png (PNG copy)> <./img/solution/6.png (PNG copy)>]
+<img/solution/8.png, id=665, 492.6405pt x 189.5883pt>
+File: img/solution/8.png Graphic file (type png)
+<use img/solution/8.png>
+Package pdftex.def Info: img/solution/8.png  used on input line 918. on input l
+ine 918.
+Package pdftex.def Info: Requested size: 492.6393pt x 189.58783pt on input line
+ 918.
+
+Overfull \hbox (8.94243pt too wide) in paragraph at lines 918--919
+ [][] 
+ []
+
+<img/solution/9.png, id=666, 489.32813pt x 263.48438pt>
+File: img/solution/9.png Graphic file (type png)
+<use img/solution/9.png>
+Package pdftex.def Info: img/solution/9.png  used on input line 925. on input l
+ine 925.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 925.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 925--926
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[47 <./img/solution/7.png (PNG copy)> <./img/solution/8.png>]
+<img/solution/10.png, id=672, 489.32813pt x 263.48438pt>
+File: img/solution/10.png Graphic file (type png)
+<use img/solution/10.png>
+Package pdftex.def Info: img/solution/10.png  used on input line 932. on input 
+line 932.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 932.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 932--933
+ [][] 
+ []
+
+<img/solution/11.png, id=673, 489.32813pt x 263.48438pt>
+File: img/solution/11.png Graphic file (type png)
+<use img/solution/11.png>
+Package pdftex.def Info: img/solution/11.png  used on input line 938. on input 
+line 938.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 938.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 938--939
+ [][] 
+ []
+
+<img/solution/12.png, id=674, 489.32813pt x 263.48438pt>
+File: img/solution/12.png Graphic file (type png)
+<use img/solution/12.png>
+Package pdftex.def Info: img/solution/12.png  used on input line 944. on input 
+line 944.
+Package pdftex.def Info: Requested size: 489.32692pt x 263.48372pt on input lin
+e 944.
+
+Overfull \hbox (5.63005pt too wide) in paragraph at lines 944--945
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48 <./img/solution/9.png (PNG copy)> <./img/solution/10.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[49 <./img/solution/11.png (PNG copy)> <./img/solution/12.png (PNG copy)>]
+Chapitre 4.
+\openout8 = `template.mtc'.
+
+\openout8 = `template.mtc'.
+
+(template.mtc5) [50
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[51]
+<img/bp.png, id=695, 465.4188pt x 493.3632pt>
+File: img/bp.png Graphic file (type png)
+<use img/bp.png>
+Package pdftex.def Info: img/bp.png  used on input line 1005. on input line 100
+5.
+Package pdftex.def Info: Requested size: 465.41765pt x 493.362pt on input line 
+1005.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[52]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[53 <./img/bp.png>] (template.bbl [54
+
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [55
+
+] [56
+
+]
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
+
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the template.maf file.
+\openout8 = `template.maf'.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the template.log file.
+
+[57]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1035.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1035.
+ (template.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1035.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1035.
+
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: BC8F8FAD68162FADF7EDA0F9AD7DCDE2;2621.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1035.
+ ) 
+Here is how much of TeX's memory you used:
+ 41621 strings out of 493314
+ 792086 string characters out of 3138861
+ 985899 words of memory out of 3000000
+ 43934 multiletter control sequences out of 15000+200000
+ 586464 words of font info for 214 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 63i,13n,101p,10491b,671s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on template.pdf (71 pages, 59589832 bytes).
+PDF statistics:
+ 781 PDF objects out of 1000 (max. 8388607)
+ 156 named destinations out of 1000 (max. 500000)
+ 39704 words of extra memory for PDF output out of 42996 (max. 10000000)
+

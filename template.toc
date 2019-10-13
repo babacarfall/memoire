@@ -1,0 +1,39 @@
+\select@language {french}
+\contentsline {xchapter}{}{1}{Doc-Start}
+\contentsline {chapter}{Introduction}{1}{Doc-Start}
+\contentsline {chapter}{\numberline {1}Pr\IeC {\'e}sentation G\IeC {\'e}n\IeC {\'e}rale}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Pr\IeC {\'e}sentation de la structure d'accueil}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Pr\IeC {\'e}sentation de la Societe Gtech}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Domaines d'activit\IeC {\'e}s}{3}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Pr\IeC {\'e}sentation du sujet}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Contexte}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Probl\IeC {\'e}matique}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Objectifs}{5}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}RESULTATS ATTENDUS}{5}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}DEMARCHE METHODOLOGIQUE}{6}{subsection.1.2.5}
+\contentsline {chapter}{\numberline {2}Analyse et Conception de la solution}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Pr\IeC {\'e}sentation du langage UML (Unified Modeling Language)}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}SPECIFICATIONS FONCTIONNELLES}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Fiches Textuelles}{14}{section.2.3}
+\contentsline {section}{\numberline {2.4}Diagramme de s\IeC {\'e}quence}{26}{section.2.4}
+\contentsline {section}{\numberline {2.5}Diagramme de classe}{34}{section.2.5}
+\contentsline {chapter}{\numberline {3} Conception de la plateforme }{36}{chapter.3}
+\contentsline {section}{\numberline {3.1}Architecture Logique}{36}{section.3.1}
+\contentsline {section}{\numberline {3.2}Choix des outils Technologique}{36}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Outil de mod\IeC {\'e}lisation UML}{36}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Langage de programmation}{37}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Outil d\IeC {\textquoteright }administration de la base de donn\IeC {\'e}es}{39}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Outil web serveur}{40}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Outil de gestions}{41}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Technologies de virtualisation}{42}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}Architecture technique}{44}{section.3.3}
+\contentsline {section}{\numberline {3.4}Pr\IeC {\'e}sentation de l\IeC {\textquoteright }application}{44}{section.3.4}
+\contentsline {chapter}{\numberline {4}Plan d'affaires}{50}{chapter.4}
+\contentsline {section}{\numberline {4.1}Le potentiel de march\IeC {\'e}}{50}{section.4.1}
+\contentsline {section}{\numberline {4.2}La pertinence de l\IeC {\textquoteright }offre de valeur}{50}{section.4.2}
+\contentsline {section}{\numberline {4.3}La capacit\IeC {\'e} \IeC {\`a} s\IeC {\textquoteright }ins\IeC {\'e}rer sur le march\IeC {\'e}}{51}{section.4.3}
+\contentsline {section}{\numberline {4.4}Un bon retour sur investissement}{53}{section.4.4}
+\contentsline {xchapter}{}{54}{figure.caption.55}
+\contentsline {chapter}{Conclusion et Perspectives}{54}{figure.caption.55}
+\contentsline {xchapter}{}{56}{figure.caption.55}
+\contentsline {chapter}{Annexes}{56}{figure.caption.55}
